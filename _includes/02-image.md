@@ -1,7 +1,7 @@
 <details>
-  <summary>This part can include images!</summary>
+  <summary>epic i guess</summary>
 
-<img src="https://octodex.github.com/images/yaktocat.png" width="500">
+<img src="https://external-preview.redd.it/K1QQ0SjXzG0UYC-ymhvoGgNJwY_6hCw-FSLiBn5LFRE.png?auto=webp&s=773071a20dc5251223b57d3a19e7a1adfb778780" width="500">
 <br>
 <img src="https://i.redd.it/9q7hdnj4zec41.png" width="500">
 <br>
