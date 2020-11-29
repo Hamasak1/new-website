@@ -1,17 +1,27 @@
 <details>
-  <summary>emphasis</summary>
+  <summary>osu! skins</summary>
 
-*italic test*
+# [Rafis Generic DT skin](https://www.dropbox.com/s/mj8snq3xz4rx15y/Rafis%20Generic%20DT%20skin.osk?dl=0)
+![](https://osu.ppy.sh/ss/14372487/7fb3)
 <br>
-_underscores work too_
+# [- ddddd ryuk -](http://puu.sh/DD1aK/53a5aa7cc4.osk)
+![](https://osu.ppy.sh/ss/13333232)
 <br>
-**bold text tutorial**
+# [- boop -](https://cdn.discordapp.com/attachments/427214130756452353/697696460267061319/boop.osk)
+![](https://osu.ppy.sh/ss/14733957/6cce)
 <br>
-__double underscores__
+# [- beep -](https://www.dropbox.com/s/h5chgecj4r089d5/Beep.osk?dl=0)
+![](https://pbs.twimg.com/media/EY06NIhUYAACn9o.jpg:large)
 <br>
-_italic **bold** combination works_
+# [mrekk HDDT (basically Rafis HDDT)](https://drive.google.com/u/0/uc?export=download&confirm=e5ti&id=1x21RntTvG_XLiz7SFXuFIQc6NWuOOfsf)
+![](https://i.imgur.com/YULitvx.png)
 <br>
-<pre>$ This dropdown contains<br>a code block!</pre>
+# [WhiteCat v1.0 (various versions)](https://mega.nz/folder/Id8FHaxY#wm4NCpJ5SEPjiY5MGH-0Iw/file/gENgzKKL)
+![](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
+<br>
+# [-+ Seoul v9 Personal Skin New Hitcircle](https://shigeskinss.s-ul.eu/r3gxsaDo)
+![](https://i.imgur.com/wblSU48.png)
+<br>
 
 
 </details>
