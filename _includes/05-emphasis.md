@@ -29,19 +29,5 @@
 
 <img src="https://i.imgur.com/YULitvx.png" width="500">
 
-<br>
-
-# [WhiteCat v1.0 (various versions)](https://mega.nz/folder/Id8FHaxY#wm4NCpJ5SEPjiY5MGH-0Iw/file/gENgzKKL)
-
-<img src="https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg" width="500">
-
-<br>
-
-# [-+ Seoul v9 Personal Skin New Hitcircle](https://shigeskinss.s-ul.eu/r3gxsaDo)
-
-<img src="https://i.imgur.com/wblSU48.png" width="500">
-
-<br>
-
 
 </details>
